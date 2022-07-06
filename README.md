@@ -1,4 +1,4 @@
-# flutter_falci
+# Flutter Mobile Application
 
 A new Flutter project.
 
